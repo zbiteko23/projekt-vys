@@ -8,4 +8,12 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <EditorConfigFiles Remove="C:\Users\zbiteko23\Desktop\projekt-vys\projekt vys\projekt vys\.editorconfig" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="C:\Users\zbiteko23\Desktop\projekt-vys\projekt vys\projekt vys\.editorconfig" />
+  </ItemGroup>
+
 </Project>
