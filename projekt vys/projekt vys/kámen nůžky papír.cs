@@ -43,10 +43,10 @@ namespace KamenNuzkyPapir
                     Console.WriteLine("Prohrál jsi!");
                 }
 
-                Console.WriteLine("Chceš hrát znovu? (ne/ne)");
+                Console.WriteLine("Chceš hrát znovu? (ano/ne)");
                 playAgain = Console.ReadLine().ToLower();
 
-            } while (playAgain == "ne");
+            } while (playAgain == "ano");
 
             Console.WriteLine("Dik za hru!");
         }
