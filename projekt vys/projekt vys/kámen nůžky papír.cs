@@ -46,7 +46,7 @@ namespace KamenNuzkyPapir
                 Console.WriteLine("Chceš hrát znovu? (ano/ne)");
                 playAgain = Console.ReadLine().ToLower();
 
-            } while (playAgain == "ano");
+            } while (playAgain == "");
 
             Console.WriteLine("Dik za hru!");
         }

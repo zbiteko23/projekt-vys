@@ -5,7 +5,9 @@ VisualStudioVersion = 17.11.35219.272
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "projekt vys", "projekt vys\projekt vys.csproj", "{E62856D9-4B0B-436E-BD03-9EB997438BBF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "piškorky 3x3", "piškorky 3x3\piškorky 3x3.csproj", "{9CE3654E-7D67-4A3B-A955-6C9973CC0394}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "piškorky 3x3", "piškorky 3x3\piškorky 3x3.csproj", "{9CE3654E-7D67-4A3B-A955-6C9973CC0394}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "šibenice se slovníkem v txt. souboru", "šibenice se slovníkem v txt. souboru\šibenice se slovníkem v txt. souboru.csproj", "{FDED0E37-3D81-4BBA-BE32-148C01F5B44E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{9CE3654E-7D67-4A3B-A955-6C9973CC0394}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9CE3654E-7D67-4A3B-A955-6C9973CC0394}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9CE3654E-7D67-4A3B-A955-6C9973CC0394}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FDED0E37-3D81-4BBA-BE32-148C01F5B44E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDED0E37-3D81-4BBA-BE32-148C01F5B44E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDED0E37-3D81-4BBA-BE32-148C01F5B44E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDED0E37-3D81-4BBA-BE32-148C01F5B44E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
